@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 5px solid navy;
+    border-radius: 15px;
+    padding: 10px;
+    color: darkblue;
+    font-size: 20px;
+}
+header a {
+    text-decoration: none;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    color: white;
+    background-color: darkblue;
+    padding: 5px;
+   
+}
+main h1{
+    text-align: center;
+    color: darkblue;
+}
+footer p{
+    background-color: darkblue;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+
+}
+.contacts{padding-left: 20px;}
+.price{ 
+    border:3px solid navy;
+    border-radius: 15px;
+    color: navy;
+    padding: 5px;
+    text-decoration: none;
+    margin: 30px;
+    background-color: white;
+}
+nav a {
+    background-color: navy;
+    border: 2px solid navy;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 30px;
+}
+.image {
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
